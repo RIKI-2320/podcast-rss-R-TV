@@ -2,8 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>RIKUKIN TV official podcast</title>
-    <link>https://sites.google.com/view/rikukintv-official-site/home</link>
-    <description>Lot of fun in this podcast</description>
+  　<description>Lot of fun in this podcast</description>
     <language>ja-JP</language>
     <itunes:author>RIKUKIN TV</itunes:author>
     <itunes:summary>English lessons, math lessons etc in this podcast</itunes:summary>
@@ -15,7 +14,7 @@
     </itunes:owner>
 
     <!-- RSS Feed Link -->
-    <link>https://sites.google.com/view/rikukintv-official-site/feed.xml</link>
+    <link>https://raw.githubusercontent.com/RIKI-2320/podcast-rss-R-TV/refs/heads/main/rss.xml</link>
 
     <!-- iTunes explicit -->
     <itunes:explicit>false</itunes:explicit>
