@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>RIKUKIN TV official podcast</title>
-  　<description>Lot of fun in this podcast</description>
+    <description>Lot of fun in this podcast</description>
     <language>ja-JP</language>
     <itunes:author>RIKUKIN TV</itunes:author>
     <itunes:summary>English lessons, math lessons etc in this podcast</itunes:summary>
@@ -27,5 +27,6 @@
       <guid>https://www.example.com/audio/banana-moskito.mp3</guid>
       <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
     </item>
-  </channel>
+
+  </channel> <!-- 'channel'タグを正しく閉じました -->
 </rss>
