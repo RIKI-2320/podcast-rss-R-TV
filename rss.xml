@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>RIKUKIN TV offcicial podcast</title>
-    <link>https://あなたのウェブサイトまたはページリンク</link>
+    <title>RIKUKIN TV official podcast</title>
+    <link>https://sites.google.com/view/rikukintv-official-site/home</link>
     <description>Lot of fun in this podcast</description>
     <language>ja-JP</language>
     <itunes:author>RIKUKIN TV</itunes:author>
     <itunes:summary>English lessons, math lessons etc in this podcast</itunes:summary>
-    <itunes:category text="Fun and Study" />
+    <itunes:category text="Education" />
     <itunes:image href="https://yt3.ggpht.com/eepdV_3YQ0nFBtj7S32NBw2qZGpPI0Zsgt41I8tjhaY1axhsmuyHrgT7Cctt0j35SzzuY7Z7fQ=s600-c-k-c0x00ffffff-no-rj-rp-mo" />
     <itunes:owner>
       <itunes:name>RIKUKIN TV</itunes:name>
       <itunes:email>riku.t.20.1417@hotmail.com</itunes:email>
     </itunes:owner>
-    
+
+    <!-- RSS Feed Link -->
+    <link>https://sites.google.com/view/rikukintv-official-site/feed.xml</link>
+
+    <!-- iTunes explicit -->
+    <itunes:explicit>false</itunes:explicit>
+
     <!-- Episode 1-->
     <item>
       <title>Episode 1</title>
       <description>Song Banana Moskito</description>
-      <enclosure url="https://音声ファイルのリンク（例: example.com/episode1.mp3）" length="0:27" type="audio/mpeg" />
-      <guid>https://音声ファイルのリンク</guid>
-      <pubDate>Tue, 02 Jan 2025 10:00:00 +0000</pubDate>
+      <enclosure url="https://Banana.Moskito.audio.mp3" length="123456" type="audio/mpeg" />
+      <guid>https://www.example.com/audio/banana-moskito.mp3</guid>
+      <pubDate>Wed, 01 Jan 2025 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
